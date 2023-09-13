@@ -1,0 +1,7 @@
+require("base")
+require("plugins")
+require("color")
+require("neovim_tree")
+require("keybindings")
+require("auto-cmd")
+-- require("nvim_treesitter")
